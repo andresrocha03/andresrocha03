@@ -1,4 +1,3 @@
 ## Hi there 👋
 - I'm currently studying Machine Learning and Data Science.
-- 
--->![Snake animation](https://github.com/andresrocha03/andresrocha03/blob/output/github-contribution-grid-snake.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andresrocha03)](https://github.com/anuraghazra/github-readme-stats)
